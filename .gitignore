@@ -1,0 +1,10 @@
+*.png
+*.jpeg
+*.jpg
+*.pyc
+/.ipynb_checkpoints
+*.pth
+*.zip
+*.pdf
+*.html
+
